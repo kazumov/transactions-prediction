@@ -4,6 +4,7 @@
 *.log
 .Rproj.user
 *_files
+*.tex
 
 # the report source code
 *.Rmd
