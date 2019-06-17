@@ -1,17 +1,19 @@
+# system files and directories
 .Rhistory
-
 *.Rproj
-
+*.log
 .Rproj.user
-
 *_files
 
+# the report source code
 *.Rmd
 
+# source code
 *tmp.R
 *old.R
 *delete.R
 
+# data sources
 *tmp.Rds
 *old.Rds
 *delete.Rds
