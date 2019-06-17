@@ -1,0 +1,15 @@
+*.Rproj
+.Rproj.user
+
+*_files
+
+*.Rmd
+
+*tmp.R
+*old.R
+*delete.R
+
+*tmp.Rds
+*old.Rds
+*delete.Rds
+
