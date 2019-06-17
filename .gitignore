@@ -1,4 +1,7 @@
+.Rhistory
+
 *.Rproj
+
 .Rproj.user
 
 *_files
