@@ -23,3 +23,5 @@ chase
 *old.Rds
 *delete.Rds
 
+#all the objects
+*.Rds

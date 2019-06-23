@@ -14,9 +14,9 @@ library(crayon)
 # Three data sources of the single CC account
 
 chaseData <- list(
-  report2017 = read.csv("chase/Chase7898_Activity20170617_20180131_20190617.CSV", header = TRUE, stringsAsFactors = FALSE),
-  report2018 = read.csv("chase/Chase7898_Activity20180101_20181231_20190617.CSV", header = TRUE, stringsAsFactors = FALSE), 
-  report2019 = read.csv("chase/Chase7898_Activity20190101_20190617_20190617.CSV", header = TRUE, stringsAsFactors = FALSE)
+  report2017 = read.csv("data/Chase7898_Activity20170617_20180131_20190617.CSV", header = TRUE, stringsAsFactors = FALSE),
+  report2018 = read.csv("data/Chase7898_Activity20180101_20181231_20190617.CSV", header = TRUE, stringsAsFactors = FALSE), 
+  report2019 = read.csv("data/Chase7898_Activity20190101_20190617_20190617.CSV", header = TRUE, stringsAsFactors = FALSE)
 )
 
 # * The data preparation ----
