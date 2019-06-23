@@ -5,6 +5,10 @@
 .Rproj.user
 *_files
 *.tex
+*.bib
+chase
+.DS_Store
+.RData
 
 # the report source code
 *.Rmd
