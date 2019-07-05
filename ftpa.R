@@ -724,3 +724,6 @@ transactions %>%
   filter(Amount < -1000)
 
 
+# TODO: Fix red spots id: 6
+
+
